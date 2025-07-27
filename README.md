@@ -1,4 +1,4 @@
-# Pratham-55
+cd# Pratham-55
 This is my first repository.
 <br>
-Author - Pratham Gupta
+Author - Gauri gupta
